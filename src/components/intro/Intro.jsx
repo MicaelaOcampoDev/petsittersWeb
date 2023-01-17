@@ -1,12 +1,12 @@
 import './intro.css';
-import logo from "../../img/introportfolio.png";
+import logo from "../../img/BEBIFIU.jpeg";
 
 const Intro = () => {
     return (
         <div className="i">
             <div className="i-left">
                 <div className="i-left-wrapper">
-                    <h2 className='i-intro'>ALOJAMIENTO PARA ANIMALES</h2>
+                    <h2 className='i-intro'>ALOJAMIENTOS PARA ANIMALES</h2>
                     <h2 className='i-name'>A TU ALCANCE</h2>
                     <div className="i-title">
                         <div className="i-title-wrapper">
