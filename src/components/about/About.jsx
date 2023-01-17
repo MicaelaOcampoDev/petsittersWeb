@@ -1,6 +1,6 @@
 import "./about.css";
 import skills from "../../img/skill.png";
-import aboutme from "../../img/aboutme.jpg";
+import aboutme from "../../img/aboutme1.png";
 
 const About = () => {
     return (
