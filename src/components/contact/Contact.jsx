@@ -29,29 +29,29 @@ const Contact = () => {
             <div className="c-bg"></div>
                 <div className="c-wrapper">
                     <div className="c-left">
-                        <h1 className="c-title">Podes contactarme a traves de:</h1>
+                        <h1 className="c-title">Podes contactarnos a traves de:</h1>
                         <div className="c-info">
                         <div className="c-info-item">
                                 <img src={Linkedin} alt="" className="c-icon" />
-                                https://www.linkedin.com/in/micaela-ocampodev/
+                                https://www.linkedin.com/in/Bebifiu/
                             </div>
                             <div className="c-info-item">
                                 <img src={Email} alt="" className="c-icon" />
-                                micaocampo.dev@gmail.com
+                                bebifiu-alojamientos@gmail.com
                             </div>
                             <div className="c-info-item">
                                 <img src={Whatsapp} alt="" className="c-icon" />
-                                +549 11-24601561
+                                +549 11-25698743
                             </div>
                             <div className="c-info-item">
                                 <img src={Address} alt="" className="c-icon" />
-                                Buenos Aires, Arg
+                                Argentina
                             </div>
                         </div>
                     </div>
                     <div className="c-right">
                         <p className="c-desc">
-                            <b>Tambien podes dejarme un mensaje!</b> Te respondere a la brevedad.
+                            <b>Tambien podes enviarnos tu mensaje!</b> Te responderemos a la brevedad.
                         </p>
                         <form ref={formRef} onSubmit={handleSubmit}>
                             <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Nombre:" name="user_name"/>
@@ -59,7 +59,7 @@ const Contact = () => {
                             <input style={{backgroundColor: darkMode && "#333" }} type="text" placeholder="Email:" name="user_email"/>
                             <textarea style={{backgroundColor: darkMode && "#333" }} rows="5" placeholder="Mensaje:" name="message"/>
                             <button>Enviar</button>
-                            {done && "Gracias por tu mensaje!"}
+                            {done && "Gracias por tu mensaje. Equipo de Bebifiu!"}
                         </form>
                     </div>
                 </div>

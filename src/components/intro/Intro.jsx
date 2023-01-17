@@ -13,7 +13,7 @@ const Intro = () => {
                             <div className="i-title-item">Guarderia canina</div>
                             <div className="i-title-item">Guarderia felina</div>
                             <div className="i-title-item">Cuidadores a domicilio</div>
-                            <div className="i-title-item">Adopciones</div>
+                            <div className="i-title-item">Alojamientos seguros</div>
                             <div className="i-title-item">Publicidad para tus servicios</div>                        
                         </div>
                     </div>

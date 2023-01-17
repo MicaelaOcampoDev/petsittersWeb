@@ -1,38 +1,38 @@
-import proyectoUno from "../src/img/proyectoUno.png";
-import proyectoDos from "../src/img/proyectoDos.png";
-import proyectoTres from "../src/img/proyectoTres.png";
-import proyectoCuatro from "../src/img/proyectoCuatro.png";
-import proyectoCinco from "../src/img/proyectoCinco.png";
-import proyectoSeis from "../src/img/proyectoSeis.png";
+import proyecto1 from "../src/img/proyecto1.png";
+import proyecto2 from "../src/img/proyecto2.png";
+import proyecto3 from "../src/img/proyecto3.png";
+import proyecto4 from "../src/img/proyecto4.png";
+import proyecto5 from "../src/img/proyecto5.png";
+import proyecto6 from "../src/img/proyecto6.png";
 export const products = [
   {
     id: 1,
-    img: proyectoUno,
-    link: "https://micaela-portfolio.netlify.app/",
+    img: proyecto1,
+    link: "https://www.facebook.com/costumbrescaninas/",
   },
   {
     id: 2,
-    img: proyectoDos,
-    link: "http://www.rescatescomodogs.com/",
+    img: proyecto2,
+    link: "https://www.instagram.com/guarderiacomoencasa_/",
   },
   {
     id: 3,
-    img: proyectoTres,
-    link: "https://bebifiupet-sitters.netlify.app/index.html",
+    img: proyecto3,
+    link: "https://www.instagram.com/comodogs/",
   },
   {
     id: 4,
-    img: proyectoCuatro,
-    link: "https://morningstar-web.netlify.app/",
+    img: proyecto4,
+    link: "https://www.instagram.com/patitas.felices_paseos/",
   },
   {
     id: 5,
-    img: proyectoCinco,
-    link: "https://comodogsweb.netlify.app/",
+    img: proyecto5,
+    link: "https://www.instagram.com/guarderiademascotasolivos/",
   },
   {
     id: 6,
-    img: proyectoSeis,
-    link: "https://netflix-clonesearch.netlify.app/",
+    img: proyecto6,
+    link: "https://www.instagram.com/guarderia_canina_mi_sueno/",
   },
 ];

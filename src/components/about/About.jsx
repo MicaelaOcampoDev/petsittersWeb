@@ -20,8 +20,7 @@ const About = () => {
                     <img src={skills} alt="" className="a-award-img" />
                     <div className="a-award-texts">
                         <h4 className="a-award-title">EXPERIENCIAS COMPROBABLES</h4>
-                        <p className="a-award-desc">Nuestras revista online te ofrece los mas seguros y confiables servicios.</p>
-                        
+                        <p className="a-award-desc">Nuestras revista online te ofrece los mas seguros y confiables servicios.</p>          
                     </div>
                 </div>
             </div>
